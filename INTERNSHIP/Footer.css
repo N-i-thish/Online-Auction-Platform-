@@ -1,0 +1,17 @@
+.footer {
+    background-color: #63cd61;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+  }
+  
+  .footer-container {
+    width: 1700px;
+    /* margin: 0 auto; */
+  }
+  
+  .copyright {
+    margin: 0;
+    font-size: 0.9em;
+  }
+  
